@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
 
         //米田
         //小熊
+        //穂山
     }
 }
