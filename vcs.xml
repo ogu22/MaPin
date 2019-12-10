@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/Ryogo13/MaPin.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Ryogo13/MaPinProject.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\s20182012\AndroidStudioProjects" />
